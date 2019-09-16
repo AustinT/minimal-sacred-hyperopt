@@ -7,7 +7,9 @@ The results are shown in 2 jupyter notebooks:
 
 # How to run
 1. Run the environment setup script: `source setup_env.sh`
-2. Launch jupyter notebook/jupyterlab to run the examples.
+2. Launch the mongodb process by typing `mdb`
+3. In a new shell, run the setup script again (step 1),
+ then launch jupyter notebook/jupyterlab to run the examples.
 
 # Requirements
 - Python 3.6+
