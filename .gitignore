@@ -1,6 +1,7 @@
 # My files
 mongodb/
-logfile.txt  # file hyperopt generates
+# file hyperopt generates
+logfile.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
